@@ -1,1 +1,1 @@
-# Awesome-AIGC-Detection
+# Awesome-AIGC-Image-Detection
