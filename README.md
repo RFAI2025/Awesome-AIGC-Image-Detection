@@ -10,19 +10,25 @@ Photographs are a means for people to document their daily experiences and are o
 - Others
 
 ## Papers
-<details>
+<details open>
 <summary>2025</summary>
 </details>
 
-<details>
+<details open>
 <summary>2024</summary>
 Forgery-aware Adaptive Transformer for Generalizable Synthetic (CVPR '24) [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Forgery-aware_Adaptive_Transformer_for_Generalizable_Synthetic_Image_Detection_CVPR_2024_paper.pdf)]
 </details>
 
-<details>
+<details open>
 <summary>2023</summary>
- 这是一个链接 [菜鸟教程](https://www.runoob.com)
 </details>
 
+<details open>
+  <summary>Click to expand</summary>
+  
+  Here is some detailed content. You can include links like [this one](https://example.com) within the collapsible section.
 
-这是一个链接 [菜鸟教程](https://www.runoob.com)
+  - [Link 1](https://example.com/1)
+  - [Link 2](https://example.com/2)
+  - [Link 3](https://example.com/3)
+</details>
