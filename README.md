@@ -24,12 +24,15 @@ Photographs are a means for people to document their daily experiences and are o
   - Leveraging Representations from Intermediate Encoder-blocks for Synthetic Image Detection **(ECCV '24)** [[Paper](https://arxiv.org/pdf/2402.19091)][[Code](https://github.com/mever-team/rine/tree/main?tab=readme-ov-file)]
   - Raising the Bar of AI-generated Image Detection with CLIP **(CVPRW' 24)** [[Paper](https://openaccess.thecvf.com/content/CVPR2024W/WMF/papers/Cozzolino_Raising_the_Bar_of_AI-generated_Image_Detection_with_CLIP_CVPRW_2024_paper.pdf)][[Code](https://github.com/grip-unina/ClipBased-SyntheticImageDetection/)]
   - Mixture of Low-rank Experts for Transferable AI-Generated Image Detection **(arxiv)** [[Paper](https://arxiv.org/pdf/2404.04883)][[Code](https://github.com/zhliuworks/CLIPMoLE)]
+  - Guided and Fused: Efficient Frozen CLIP-ViT with Feature Guidance and Multi-Stage Feature Fusion for Generalizable Deepfake Detection **(arxiv)** [[Paper](https://arxiv.org/pdf/2408.13697)]
 </details>
 
 <details open>
   <summary>2023</summary>
 
   - Towards Universal Fake Image Detectors that Generalize Across Generative Models **(CVPR '23)** [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Ojha_Towards_Universal_Fake_Image_Detectors_That_Generalize_Across_Generative_Models_CVPR_2023_paper.pdf)][[Code](https://github.com/WisconsinAIVision/UniversalFakeDetect)]
+  - Learning on Gradients: Generalized Artifacts Representation for GAN-Generated Images Detection **(CVPR '23)** [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Tan_Learning_on_Gradients_Generalized_Artifacts_Representation_for_GAN-Generated_Images_Detection_CVPR_2023_paper.pdf)][[Code](https://github.com/chuangchuangtan/LGrad)]
+  - DIRE for Diffusion-Generated Image Detection **(ICCV '23)** [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_DIRE_for_Diffusion-Generated_Image_Detection_ICCV_2023_paper.pdf)][[Code](https://github.com/ZhendongWang6/DIRE)]
   - Seeing is not always believing: Benchmarking Human and Model Perception of AI-Generated Images **(NeurIPS' 23)** [[Paper](https://arxiv.org/pdf/2304.13023)][[Code](https://github.com/Inf-imagine/Sentry)]
   - Online Detection of AI-Generated Images **(ICCVW '2023)** [[Paper](https://openaccess.thecvf.com/content/ICCV2023W/DFAD/papers/Epstein_Online_Detection_of_AI-Generated_Images__ICCVW_2023_paper.pdf)]
 </details>
