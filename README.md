@@ -12,6 +12,8 @@ Photographs are a means for people to document their daily experiences and are o
 ## Papers
 <details open>
   <summary>2025</summary>
+
+  - TextureCrop: Enhancing Synthetic Image Detection through Texture-based Cropping (arxiv) [[Paper](https://arxiv.org/pdf/2407.15500)]
 </details>
 
 <details open>
