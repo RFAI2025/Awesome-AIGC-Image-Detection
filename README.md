@@ -27,8 +27,4 @@ Photographs are a means for people to document their daily experiences and are o
   <summary>Click to expand</summary>
   
   Here is some detailed content. You can include links like [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Forgery-aware_Adaptive_Transformer_for_Generalizable_Synthetic_Image_Detection_CVPR_2024_paper.pdf) within the collapsible section.
-
-  - [Link 1](https://example.com/1)
-  - [Link 2](https://example.com/2)
-  - [Link 3](https://example.com/3)
 </details>
