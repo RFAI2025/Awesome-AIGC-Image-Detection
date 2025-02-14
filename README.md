@@ -16,8 +16,7 @@ Photographs are a means for people to document their daily experiences and are o
 
 <details>
 <summary>2024</summary>
-Forgery-aware Adaptive Transformer for Generalizable Synthetic (CVPR '24)[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Forgery-aware_Adaptive_Transformer_for_Generalizable_Synthetic_Image_Detection_CVPR_2024_paper.pdf)
-Image Detection
+Forgery-aware Adaptive Transformer for Generalizable Synthetic (CVPR '24)[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Forgery-aware_Adaptive_Transformer_for_Generalizable_Synthetic_Image_Detection_CVPR_2024_paper.pdf) 
 </details>
 
 <details>
