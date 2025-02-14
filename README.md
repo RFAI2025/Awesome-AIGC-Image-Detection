@@ -8,3 +8,16 @@ Photographs are a means for people to document their daily experiences and are o
 - Papers
 - Tools
 - Others
+
+## Papers
+<details>
+<summary>2025</summary>
+</details>
+
+<details>
+<summary>2024</summary>
+</details>
+
+<details>
+<summary>2023</summary>
+</details>
