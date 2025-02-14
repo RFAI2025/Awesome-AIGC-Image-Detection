@@ -22,4 +22,6 @@ Photographs are a means for people to document their daily experiences and are o
 
 <details open>
   <summary>2023</summary>
+
+  Towards Universal Fake Image Detectors that Generalize Across Generative Models (CVPR '23) [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Ojha_Towards_Universal_Fake_Image_Detectors_That_Generalize_Across_Generative_Models_CVPR_2023_paper.pdf)][[Code](https://github.com/WisconsinAIVision/UniversalFakeDetect)]
 </details>
