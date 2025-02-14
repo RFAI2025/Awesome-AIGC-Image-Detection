@@ -20,6 +20,10 @@ Photographs are a means for people to document their daily experiences and are o
   <summary>2024</summary>
   
   - Forgery-aware Adaptive Transformer for Generalizable Synthetic (CVPR '24) [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Forgery-aware_Adaptive_Transformer_for_Generalizable_Synthetic_Image_Detection_CVPR_2024_paper.pdf)][[Code](https://github.com/Michel-liu/FatFormer?tab=readme-ov-file)]
+  - Zero-Shot Detection of AI-Generated Images (ECCV '24) [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02665.pdf)][[Code](https://github.com/grip-unina/ZED/)]
+  - Leveraging Representations from Intermediate Encoder-blocks for Synthetic Image Detection (ECCV '24) [[Paper](https://arxiv.org/pdf/2402.19091)][[Code](https://github.com/mever-team/rine/tree/main?tab=readme-ov-file)]
+  - Raising the Bar of AI-generated Image Detection with CLIP (CVPRW' 24) [[Paper](https://openaccess.thecvf.com/content/CVPR2024W/WMF/papers/Cozzolino_Raising_the_Bar_of_AI-generated_Image_Detection_with_CLIP_CVPRW_2024_paper.pdf)][[Code](https://github.com/grip-unina/ClipBased-SyntheticImageDetection/)]
+  - Mixture of Low-rank Experts for Transferable AI-Generated Image Detection (arxiv) [[Paper](https://arxiv.org/pdf/2404.04883)][[Code](https://github.com/zhliuworks/CLIPMoLE)]
 </details>
 
 <details open>
