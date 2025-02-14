@@ -21,5 +21,5 @@ Forgery-aware Adaptive Transformer for Generalizable Synthetic (CVPR '24) [[Pape
 
 <details>
 <summary>2023</summary>
-  [我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")
+ 这是一个链接 [菜鸟教程](https://www.runoob.com)
 </details>
