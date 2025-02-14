@@ -13,6 +13,7 @@ Photographs are a means for people to document their daily experiences and are o
 <details open>
   <summary>2025</summary>
 
+  - [**KDD '25**] Improving Synthetic Image Detection Towards Generalization: An Image Transformation Perspective [[Paper](https://arxiv.org/pdf/2408.06741)][[Code](https://github.com/Ouxiang-Li/SAFE)]
   - [**arxiv**] TextureCrop: Enhancing Synthetic Image Detection through Texture-based Cropping [[Paper](https://arxiv.org/pdf/2407.15500)]
 </details>
 
