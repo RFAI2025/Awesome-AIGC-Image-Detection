@@ -48,6 +48,12 @@ Photographs are a means for people to document their daily experiences and are o
   - [**arxiv**] PatchCraft: Exploring Texture Patch for Efficient AI-generated Image Detection [[Paper](https://arxiv.org/pdf/2311.12397v3)]
 </details>
 
+<details open>
+  <summary>2020</summary>
+
+  - [**CVPR '20**] CNN-generated images are surprisingly easy to spot... for now [[Paper](https://arxiv.org/pdf/1912.11035)][[Code](https://github.com/peterwang512/CNNDetection)]
+</details>
+
 ## Tools
 
 ## Others
