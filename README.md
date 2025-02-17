@@ -6,8 +6,8 @@ Photographs are a means for people to document their daily experiences and are o
 ## Contents
 - [Datasets](##Datasets)
 - [Papers](##Papers)
-- Tools
-- Others
+- [Tools](##Tools)
+- [Others](##Others)
 
 ## Datasets
 |  Year   | Dataset  |  Number of Real  |  Number of Fake  |  Source of Real Image  |  Generation Method of Fake Image  |
@@ -46,3 +46,7 @@ Photographs are a means for people to document their daily experiences and are o
   - [**ICCVW '2023**] Online Detection of AI-Generated Images [[Paper](https://openaccess.thecvf.com/content/ICCV2023W/DFAD/papers/Epstein_Online_Detection_of_AI-Generated_Images__ICCVW_2023_paper.pdf)]
   - [**arxiv**] PatchCraft: Exploring Texture Patch for Efficient AI-generated Image Detection [[Paper](https://arxiv.org/pdf/2311.12397v3)]
 </details>
+
+## Tools
+
+## Others
