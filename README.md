@@ -56,9 +56,16 @@ Photographs are a means for people to document their daily experiences and are o
 </details>
 
 <details open>
+  <summary>2021</summary>
+
+  - [**ICME '21**] Are GAN generated images easy to detect? A critical analysis of the state-of-the-art [[Paper](https://arxiv.org/pdf/2104.02617)]
+</details>
+
+<details open>
   <summary>2020</summary>
 
   - [**CVPR '20**] CNN-generated images are surprisingly easy to spot... for now [[Paper](https://arxiv.org/pdf/1912.11035)][[Code](https://github.com/peterwang512/CNNDetection)]
+  - [**ECCV '20**] What makes fake images detectable? Understanding properties that generalize [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710103.pdf)][[Code](https://github.com/chail/patch-forensics)]
 </details>
 
 ## Tools
