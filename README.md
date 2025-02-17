@@ -10,10 +10,10 @@ Photographs are a means for people to document their daily experiences and are o
 - Others
 
 ## Datasets
-|  Year   | Dataset  |  #Real  |  #Fake  |
-|  ----  | ----  |  ----  | ----  |
-| 单元格  | 单元格 | 单元格  | 单元格 |
-| 单元格  | 单元格 | 单元格  | 单元格 |
+|  Year   | Dataset  |  Number of Real  |  Number of Fake  |  Number of Real  |  Source of Real Image  |  Generation Method of Fake Image  |
+|  ----  | ----  |  ----  | ----  |  ----  | ----  |
+| 单元格  | 单元格 | 单元格  | 单元格 | 单元格  | 单元格 |
+| 单元格  | 单元格 | 单元格  | 单元格 | 单元格  | 单元格 |
 
 ## Papers
 <details open>
