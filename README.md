@@ -49,6 +49,13 @@ Photographs are a means for people to document their daily experiences and are o
 </details>
 
 <details open>
+  <summary>2022</summary>
+
+  - [**ECCV '22**] Detecting Generated Images by Real Images [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740089.pdf)][[Code](https://github.com/Tangsenghenshou/Detecting-Generated-Images-by-Real-Images)]
+  - [**ECCV '22**] FingerprintNet: Synthesized Fingerprints for Generated Image Detection [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740071.pdf)]
+</details>
+
+<details open>
   <summary>2020</summary>
 
   - [**CVPR '20**] CNN-generated images are surprisingly easy to spot... for now [[Paper](https://arxiv.org/pdf/1912.11035)][[Code](https://github.com/peterwang512/CNNDetection)]
