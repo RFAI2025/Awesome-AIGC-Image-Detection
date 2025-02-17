@@ -12,8 +12,8 @@ Photographs are a means for people to document their daily experiences and are o
 ## Datasets
 |  Year   | Dataset  |  Number of Real  |  Number of Fake  |  Source of Real Image  |  Generation Method of Fake Image  |
 |  ----  | ----  |  ----  | ----  |  ----  | ----  |
-| 单元格  | 单元格 | 单元格  | 单元格 | 单元格  | 单元格 |
-| 单元格  | 单元格 | 单元格  | 单元格 | 单元格  | 单元格 |
+| 2023  | [GenImage](https://arxiv.org/pdf/2306.08571) | 1,331,167  |  1,350,000 | ImagNet | SDMs, Midjourney, BigGAN |
+| 2024  | WildFake | 2,557,278  | 1,013,446 | ImagNet, Laion, Wukong, COO...  | BigGAN, StyleGAN, StarGAN, Midjourney, DALLE... |
 
 ## Papers
 <details open>
